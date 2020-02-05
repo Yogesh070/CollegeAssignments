@@ -43,9 +43,9 @@ System.out.println(a[i]);
 ``` 
 
 ### Output
-33
-3
-4
+33\
+3\
+4\
 5
 
 ## MultiDimensional Array
@@ -65,6 +65,6 @@ for(int i=0;i<3;i++){
 ```
 
 ### Output
-1 2 3
-2 4 5
-4 4 5
+1 2 3\
+2 4 5\
+4 4 5\
