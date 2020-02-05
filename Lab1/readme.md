@@ -1,4 +1,4 @@
-# LAB-1:DATA TYPE AND ARRAY IN JAVA
+# LAB-1: DATA TYPE AND ARRAY IN JAVA
 
 # THEORY:
 
@@ -63,3 +63,8 @@ for(int i=0;i<3;i++){
 }  
 }}  
 ```
+
+### Output
+1 2 3
+2 4 5
+4 4 5
