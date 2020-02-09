@@ -82,6 +82,6 @@ public static void main(String[] args) {
 }
 ```
 
-## ABSTRACT CLASS
+## Abstract Class
 
 A class which is declared with the abstract keyword is known as an abstract class in Java.
