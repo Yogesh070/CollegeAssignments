@@ -55,3 +55,15 @@ class Exception{
 ### Output
 Cannot divide by zero\
 this finally block gets executed anyways
+
+# Packages In Java
+
+Package in Java is a mechanism to encapsulate a group of classes, sub packages and interfaces.Its uses are:
+
+* Preventing naming conflicts
+* Packages can be considered as data encapsulation
+* Making searching/locating and usage of classes, interfaces, enumerations and annotations easier
+
+## How package works?
+
+Package names and directory structure are closely related. For example if a package name is college.staff.cse, then there are three directories, college, staff and cse such that cse is present in staff and staff is present college. Also, the directory college is accessible through CLASSPATH variable, i.e., path of parent directory of college is present in CLASSPATH. The idea is to make sure that classes are easy to locate.
