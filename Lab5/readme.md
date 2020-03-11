@@ -45,12 +45,14 @@ g.drawString("welcome",150,150);
 ```
 #### Html code:
 
+```javascript
 <html>  
 <body>  
 <applet code="First.class" width="300" height="300">  
 </applet>  
 </body>  
 </html> 
+```
 
 # File Handling in Java
 
