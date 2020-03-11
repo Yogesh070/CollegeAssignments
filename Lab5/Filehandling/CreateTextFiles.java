@@ -3,8 +3,8 @@ import java.io.IOException;
 class CreateTextFiles{
     
     public static void main(String[] args) throws IOException {
-        String string_A=" aa \n bb \n cc";
-        String string_B=" 11 \n 22 \n 33";
+        String string_A="aa \nbb \ncc";
+        String string_B="11 \n22 \n33";
     //  System.out.println(string_A.length());
         FileWriter fa=new FileWriter("a.txt");
         FileWriter fb=new FileWriter("b.txt");
