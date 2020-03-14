@@ -8,7 +8,8 @@ LAB. NO | NAME OF PROGRAM | LINK
 :four:| Exception Handling , Package | [Lab 4](Lab4/readme.md)
 :five:| Applet | [Lab 5](Lab5/readme.md)
 :six:| File Handling | [Lab 6](Lab6/readme.md)
-:seven:| AWT (Abstract Window Toolkit) | [Lab 7](Lab7/readme.md)
+:seven:| AWT (Abstract Window Toolkit) | [Lab 7](Lab7/awtForm/readme.md)
+:eight:| Event Handling | [Lab 8](Lab8/readme.md)
 
 
 
