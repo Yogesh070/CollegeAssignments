@@ -1,4 +1,4 @@
-div {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -6,7 +6,7 @@ div {
     width: 100vw;
 }
 
-p {
+.heading {
     font-size: 64px;
     font-weight: 900;
 }
