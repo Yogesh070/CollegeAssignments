@@ -1,0 +1,10 @@
+127.0.0.1 - - [23/Jan/2023:09:57:31 +0545] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [23/Jan/2023:09:57:32 +0545] "GET /StudentManagementSystem/ HTTP/1.1" 200 228
+0:0:0:0:0:0:0:1 - - [23/Jan/2023:09:57:32 +0545] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [23/Jan/2023:09:58:00 +0545] "GET /StudentManagementSystem/StudentController?actions=student_list HTTP/1.1" 404 797
+0:0:0:0:0:0:0:1 - - [23/Jan/2023:09:58:02 +0545] "GET /StudentManagementSystem/StudentController?actions=student_list HTTP/1.1" 404 797
+0:0:0:0:0:0:0:1 - - [23/Jan/2023:10:01:12 +0545] "GET /StudentManagementSystem/StudentController?actions=student_list HTTP/1.1" 404 797
+0:0:0:0:0:0:0:1 - - [23/Jan/2023:10:06:33 +0545] "GET /StudentManagementSystem/StudentController?actions=student_list HTTP/1.1" 404 797
+0:0:0:0:0:0:0:1 - - [23/Jan/2023:10:09:19 +0545] "GET /StudentManagementSystem/studentform.jsp HTTP/1.1" 500 6693
+0:0:0:0:0:0:0:1 - - [23/Jan/2023:10:09:33 +0545] "GET /StudentManagementSystem/studentlist.jsp HTTP/1.1" 500 6693
+0:0:0:0:0:0:0:1 - - [23/Jan/2023:10:09:42 +0545] "GET /StudentManagementSystem/ HTTP/1.1" 200 289
