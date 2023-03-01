@@ -1,4 +1,9 @@
-# Index
+# Java Lab Report
+
+### [Enterprise Application Development](EAD/README.MD)
+
+
+## Table of Contents
 
 LAB. NO | NAME OF PROGRAM | LINK
 :------:|:---------------:|:---:
@@ -10,9 +15,5 @@ LAB. NO | NAME OF PROGRAM | LINK
 :six:| File Handling | [Lab 6](Lab6/readme.md)
 :seven:| AWT (Abstract Window Toolkit) | [Lab 7](Lab7/awtForm/readme.md)
 :eight:| Event Handling | [Lab 8](Lab8/readme.md)
-
-
-
-***This repo is for Java Lab Report***\
-*Submitted to*: ***ER.Nishal Gurung***
+:nine:| Enterprise Application Development LAB | [EAD](EAD/readme.md)
 
